@@ -1,5 +1,5 @@
 function fct(){
-    window.location.href='courses.html';
+    window.location.href='index.html';
 
   }
   var courses = [{
